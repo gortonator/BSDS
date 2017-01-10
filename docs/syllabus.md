@@ -1,4 +1,4 @@
-﻿
+
 
 
 [home](https://github.com/gortonator/CS6510-Advanced-Software-Development) | igortn&commat;northeastern.edu<br>
@@ -6,8 +6,8 @@
 
 # **Building Scalable Distributed Systems: Spring 2017**
 
-**Lecturer:** Ian Gorton, igortn@northeastern.edu
-**Piazza:** on its way
+**Lecturer:** Ian Gorton, i.gorton@northeastern.edu
+**Piazza:** https://piazza.com/class/ixrskorq80k30d
 
 ### **Introduction**
 
@@ -162,4 +162,4 @@ Grading will be:
 
 
 
- 
+�
