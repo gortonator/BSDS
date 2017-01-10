@@ -71,7 +71,7 @@ Grading will be:
     <td>1/17</td>
     <td>Client Server and N-Tiered Systems</td>
     <td>Baseline design exercise</td>
-    <td>Project 1 (login)</td>
+    <td>Project 1 due 29th Jan</td>
   </tr>
   <tr>
     <td>1/24</td>
@@ -83,7 +83,7 @@ Grading will be:
     <td>1/31</td>
     <td>Microservices<br>Availability</td>
     <td>State identification</td>
-    <td>Project 2 (e-commerce app)</td>
+    <td>Project 2 due 12th Feb</td>
   </tr>
   <tr>
     <td>2/7</td>
@@ -101,7 +101,7 @@ Grading will be:
     <td>2/21</td>
     <td>Post-Sql<br>NO SQL data models</td>
     <td>Scalability quiz</td>
-    <td>Project 3 (Availability)</td>
+    <td>Project 3 (Availability) due March 5th</td>
   </tr>
   <tr>
     <td>2/28</td>
@@ -119,7 +119,7 @@ Grading will be:
     <td>3/21</td>
     <td>Cloud Introduction <br>Availability in the cloud</td>
     <td>Scalability Design Exercise</td>
-    <td>Project 4 (Scale Data)</td>
+    <td>Project 4 (Scale Data)due March 29th</td>
   </tr>
   <tr>
     <td>3/28</td>
@@ -131,7 +131,7 @@ Grading will be:
     <td>4/4</td>
     <td>Serverless Architecture</td>
     <td>Security Quiz</td>
-    <td>Project 5 (more scalability)</td>
+    <td>Project 5 (more scalability)Due April 23rd</td>
   </tr>
   <tr>
     <td>4/11</td>
@@ -143,7 +143,7 @@ Grading will be:
     <td>4/18</td>
     <td></td>
     <td>Project discussion</td>
-    <td>Project 6 (scalability testing)</td>
+    <td></td>
   </tr>
 </table>
 
